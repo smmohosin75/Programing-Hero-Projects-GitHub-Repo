@@ -2,5 +2,6 @@ div {
   background-color: blue;
   color: darkred;
   padding: 10px;
-
+margin-bottom: 10px;
+  border: 1px solid black;
 }
